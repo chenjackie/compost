@@ -6,7 +6,10 @@ header{
 iframe{
 	margin-top: 50px;
 }
-
+#black{
+	color: #000;
+	text-shadow:2px 2px #fff;
+}
 .headline{
 	font-size: 3.2em;
 	font-weight: bold;
